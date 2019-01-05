@@ -1,0 +1,208 @@
+1546642988482	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.KwyJ7usCMbkP"
+1546642989234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546642989235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546642990892	Marionette	INFO	Listening on port 59989
+1546642990928	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+1546643020722	Marionette	INFO	Stopped listening on port 59989
+1546643030448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.RWuOHSiVPu5N"
+1546643030898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546643030898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546643032397	Marionette	INFO	Listening on port 60178
+1546643032427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/recaptcha/api2/v1545073489967/recaptcha__en.js, line 196: NS_ERROR_NOT_INITIALIZED: 
+1546643035876	Marionette	INFO	Stopped listening on port 60178
+1546643438618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.4w1joWd5nq17"
+1546643439090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546643439090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546643440463	Marionette	INFO	Listening on port 62485
+1546643440478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546643459398	Marionette	INFO	Stopped listening on port 62485
+1546643666010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.e7eOeSK8M9PQ"
+1546643666474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546643666474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546643667886	Marionette	INFO	Listening on port 64277
+1546643667976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546643688282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.sI9aRboDKO3m"
+1546643688823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546643688823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546643690271	Marionette	INFO	Listening on port 64538
+1546643690341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546644281686	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.uWPeykxrR0xC"
+1546644282278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546644282278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546644283690	Marionette	INFO	Listening on port 52654
+1546644283735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546644352379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.cCSicEZVAVcl"
+1546644352867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546644352867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546644354274	Marionette	INFO	Listening on port 53325
+1546644354336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546644441514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.EwMFgTyXxQdR"
+1546644442074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546644442074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546644443511	Marionette	INFO	Listening on port 54126
+1546644443572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546644721252	Marionette	INFO	Stopped listening on port 64538
+1546644724925	Marionette	INFO	Stopped listening on port 52654
+1546644728693	Marionette	INFO	Stopped listening on port 53325
+1546644735631	Marionette	INFO	Stopped listening on port 54126
+1546644737725	Marionette	INFO	Stopped listening on port 64277
+1546644863307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.4GvfkNcRXYqH"
+1546644863863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546644863864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546644865535	Marionette	INFO	Listening on port 57761
+1546644865571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546644899021	Marionette	INFO	Stopped listening on port 57761
+1546645028851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.tb8myE9VZ0qn"
+1546645029347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546645029347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546645030760	Marionette	INFO	Listening on port 59350
+1546645030802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546645059236	Marionette	INFO	Stopped listening on port 59350
+1546645115353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.qG2uYQunwugU"
+1546645115785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546645115785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546645117197	Marionette	INFO	Listening on port 60254
+1546645117204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546645148067	Marionette	INFO	Stopped listening on port 60254
+1546645152441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.JuCztr4GzxqP"
+1546645152873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546645152873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546645154246	Marionette	INFO	Listening on port 60677
+1546645154289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546645223831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.QkocBj5y9s4M"
+1546645224267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546645224268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546645225639	Marionette	INFO	Listening on port 61455
+1546645225685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546646206903	Marionette	INFO	Stopped listening on port 61455
+1546646208609	Marionette	INFO	Stopped listening on port 60677
+1546646221024	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.puwqwi94p9fa"
+1546646221539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546646221539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546646222993	Marionette	INFO	Listening on port 53851
+1546646223086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1116: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546647450247	Marionette	INFO	Stopped listening on port 53851
+1546647454063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.DgD2mgk0CJlv"
+1546647454541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546647454541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546647455992	Marionette	INFO	Listening on port 64683
+1546647456033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1131: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546648460801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.gNkCSPRGaka3"
+1546648461231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546648461231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546648462894	Marionette	INFO	Listening on port 57128
+1546648462974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1131: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1546648787499	Marionette	INFO	Stopped listening on port 64683
+1546648789330	Marionette	INFO	Stopped listening on port 57128
+1546648958828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.JPUf6fqPZnTM"
+1546648959258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546648959258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546648960616	Marionette	INFO	Listening on port 61571
+1546648960698	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1546648980198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.O4JQxEpaj64U"
+1546648980618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546648980618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546648981997	Marionette	INFO	Listening on port 61856
+1546648982049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://portal1.totalcableusa.com:88/billbox/admin/index.php?do=vod&action=add, line 1131: ReferenceError: Subsys_JsHttpRequest_Js is not defined
+1546649117685	Marionette	INFO	Stopped listening on port 61856
+1546649447733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/2_s_v4497m31tv6f5w217gpm0000gp/T/rust_mozprofile.qotfxJKPIrq6"
+1546649448180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546649448180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1546649449563	Marionette	INFO	Listening on port 49664
+1546649449592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546649468656	Marionette	INFO	Stopped listening on port 49664
